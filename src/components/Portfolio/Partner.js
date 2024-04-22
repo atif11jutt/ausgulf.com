@@ -230,7 +230,7 @@ const Partner = () => {
         <div className="container">
           <div className="partner-inner">
             <div className="row justify-content-center">
-            <div className="col-12 text-white h2 mt-5 mb-3">Ai</div>
+            <div className="col-12 text-white h2 mt-5 mb-3">Artificial Intelligence & Quantum Computing</div>
 
               <div className="col-lg-2 col-md-3 col-6">
                 <div className="partner-tile">
